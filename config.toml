@@ -2,7 +2,7 @@ baseURL = "http://bianzhifu.com/"
 languageCode = "en-us"
 title = "BianZhifu"
 theme = "LeaveIt"
-paginate = 12
+paginate = 10
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
@@ -30,6 +30,10 @@ preserveTaxonomyNames = true
     name = "About"
     url = "/about/"
     weight = 4
+  [[menu.main]]
+    name = "AriaNg"
+    url = "/ariang/"
+    weight = 5
 [params.social]
   Email   = "bianzhifu@gmail.com"
   GitHub = "bianzhifu"
