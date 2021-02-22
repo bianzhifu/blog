@@ -1,7 +1,6 @@
 baseURL = "https://www.bianzhifu.com/"
 languageCode = "en-us"
 title = "BianZhifu"
-theme = "LeaveIt"
 paginate = 10
 enableEmoji = true
 enableRobotsTXT = true
