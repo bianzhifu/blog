@@ -5,6 +5,7 @@ paginate = 10
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
+preserveTaxonomyNames = true
 [blackfriday]
   hrefTargetBlank = true
   nofollowLinks = true
